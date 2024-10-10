@@ -1,0 +1,17 @@
+.highlights {
+    color:green;
+}
+
+#intro {
+    font-weight:300;
+}
+
+body {
+    font-family:Arial, sans-serif;
+}
+.custom-font{
+    font-family:'Times New Roman', 'Sans serif'
+}
+.capitalize-text {
+    text-transform:capitalize;
+}
